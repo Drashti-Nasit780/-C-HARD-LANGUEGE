@@ -1,12 +1,18 @@
 #include<stdio.h>
-
-main()
+int sum ;
 {
-	int a=100;
-	while(a=1)
-	{
-		printf(" number of the series",a);
-		a++;
-	}
-	    printf("the number of series",a);
+   int a,b ;
+	ptintf("enter the number a :");
+	scanf("%d",&a);
+	ptintf("enter the number b :");
+	scanf("%d",&b);
+	 return a+b ;
+}
+ void main()
+{
+	int ans=sum;
+	printf(""\n\n);
+        printf("ans = %d :",ans);
+	printf(""\n\n);
+        printf("ans = %d :",sum);
 }
