@@ -2,8 +2,8 @@
 
 main()
 {
-	int r;
-	float pi;
+	float r,ans;
+	
 	
 	printf("enter the value :");
 	scanf("%d",&r);
